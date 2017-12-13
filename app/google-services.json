@@ -8,50 +8,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:939034582618:android:d45f3ff09081d10a",
-        "android_client_info": {
-          "package_name": "com.example.raghav.chefier"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "939034582618-rngknbadhabrvi4d7gvffnqgr94966ic.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.raghav.chefier",
-            "certificate_hash": "d77ced043230af0877aad0d0661be231bf9ee47c"
-          }
-        },
-        {
-          "client_id": "939034582618-un9mkhbm2nbccqeu32ukvpbs14g14psu.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAh_avYLv16GAdDFGSfba5pZPanrTd9OUs"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "939034582618-un9mkhbm2nbccqeu32ukvpbs14g14psu.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:939034582618:android:449f3a64bd803185",
         "android_client_info": {
           "package_name": "com.app.ryanbansal.chefieruser"

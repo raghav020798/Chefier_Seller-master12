@@ -14,7 +14,7 @@ public class SavedDish {
     public SavedDish(String dishName, String description, String photoUrl) {
         DishName = dishName;
         Description = description;
-        String PhotoUrl = photoUrl;
+        PhotoUrl = photoUrl;
 
     }
 

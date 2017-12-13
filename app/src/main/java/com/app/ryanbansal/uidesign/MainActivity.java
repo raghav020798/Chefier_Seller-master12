@@ -78,8 +78,7 @@ public class MainActivity extends AppCompatActivity {
                     // User is signed out
                     onSignedOutCleanup();
                     List<AuthUI.IdpConfig> providers = Arrays.asList(
-                            new AuthUI.IdpConfig.Builder(AuthUI.GOOGLE_PROVIDER).build(),
-                            new AuthUI.IdpConfig.Builder(AuthUI.EMAIL_PROVIDER).build());
+                            new AuthUI.IdpConfig.Builder(AuthUI.GOOGLE_PROVIDER).build());
                     startActivityForResult(AuthUI.getInstance()
                                     .createSignInIntentBuilder()
                                     .setIsSmartLockEnabled(false)
