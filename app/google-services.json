@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "939034582618",
+    "firebase_url": "https://health-care-6fb8d.firebaseio.com",
+    "project_id": "health-care-6fb8d",
+    "storage_bucket": "health-care-6fb8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939034582618:android:d45f3ff09081d10a",
+        "android_client_info": {
+          "package_name": "com.example.raghav.chefier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939034582618-rngknbadhabrvi4d7gvffnqgr94966ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raghav.chefier",
+            "certificate_hash": "d77ced043230af0877aad0d0661be231bf9ee47c"
+          }
+        },
+        {
+          "client_id": "939034582618-un9mkhbm2nbccqeu32ukvpbs14g14psu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh_avYLv16GAdDFGSfba5pZPanrTd9OUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939034582618-un9mkhbm2nbccqeu32ukvpbs14g14psu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939034582618:android:449f3a64bd803185",
+        "android_client_info": {
+          "package_name": "com.app.ryanbansal.chefieruser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939034582618-6o6o6eq8f48cutflaj6mtv99c7md5714.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ryanbansal.chefieruser",
+            "certificate_hash": "0f99f1c350687493babede66d01217b56cef06d7"
+          }
+        },
+        {
+          "client_id": "939034582618-un9mkhbm2nbccqeu32ukvpbs14g14psu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh_avYLv16GAdDFGSfba5pZPanrTd9OUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939034582618-un9mkhbm2nbccqeu32ukvpbs14g14psu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939034582618:android:6dd0ab855bba22bb",
+        "android_client_info": {
+          "package_name": "com.app.ryanbansal.uidesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939034582618-of8j9r3oh2t4ar1tpgie9tc5od4sg348.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ryanbansal.uidesign",
+            "certificate_hash": "d77ced043230af0877aad0d0661be231bf9ee47c"
+          }
+        },
+        {
+          "client_id": "939034582618-haf40a2e2859ats25jr0bm5vul7p01a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ryanbansal.uidesign",
+            "certificate_hash": "0f99f1c350687493babede66d01217b56cef06d7"
+          }
+        },
+        {
+          "client_id": "939034582618-un9mkhbm2nbccqeu32ukvpbs14g14psu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh_avYLv16GAdDFGSfba5pZPanrTd9OUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939034582618-un9mkhbm2nbccqeu32ukvpbs14g14psu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

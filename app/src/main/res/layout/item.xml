@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <android.support.v7.widget.CardView
+    android:layout_margin="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="5dp"
+    android:elevation="8dp"
+    android:translationZ="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:scaleType="centerCrop"
+            android:layout_margin="4dp"
+            android:id="@+id/image"/>
+
+        <LinearLayout
+            android:gravity="center_vertical"
+            android:padding="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/details"
+                android:paddingLeft="4dp"
+                android:paddingTop="4dp"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                tools:text="My Music"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/artistname"
+                android:textStyle="italic"
+                android:paddingLeft="4dp"
+                android:paddingBottom="4dp"
+                android:textColor="@android:color/darker_gray"
+                tools:text="By Ryan Bansal "/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
